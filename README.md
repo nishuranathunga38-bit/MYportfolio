@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio.
 
 I am a final-year Higher National Diploma in Information Technology (HNDIT) undergraduate with practical experience in web application development, database management, UI/UX design, and AI-assisted solutions.
 
-I am interested in software development, project coordination, UI/UX design, artificial intelligence, and emerging technologies.
+I am interested in UI/UX design, project coordination, web technologies, artificial intelligence, prompt engineering, and emerging technologies. I am a self-motivated and responsible individual who enjoys learning new technologies, working on creative projects, and developing practical solutions.
 
 ## 🛠️ Skills
 
