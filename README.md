@@ -57,10 +57,7 @@ An online cake shop application with product browsing, cart management, orders a
 **Higher National Diploma in Information Technology (HNDIT)**  
 Sri Lanka Institute of Advanced Technological Education (SLIATE)
 
-## 🌐 Portfolio
+## 🌐 LinkedIn
 
-My Portfolio: **[Add your Canva portfolio link here]**
+My LinkedIn: https://www.linkedin.com/in/nisansala-ranathunga-989b8737b/
 
-## 📫 Contact
-
-GitHub: [nishuranathunga38-bit](https://github.com/nishuranathunga38-bit)
