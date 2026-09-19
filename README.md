@@ -40,7 +40,7 @@ AI-assisted inventory management web application with predictive analytics.
 
 **Technologies:** Java, JSP, Servlets, Python Flask, MySQL, Bootstrap
 
-[View Project](../Smart-Inventory-Management-System)
+🔗 [View Project](https://github.com/nishuranathunga38-bit/Smart-Inventory-Management-System)
 
 ---
 
@@ -50,7 +50,7 @@ Web portal developed to provide academic information and useful services for ATI
 
 **Technologies:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript
 
-[View Project](../ATI-Badulla-Web-Portal)
+🔗 [View Project](https://github.com/nishuranathunga38-bit/ATI-Badulla-Web-Portal)
 
 ---
 
@@ -60,7 +60,9 @@ Online cake shop web application with product browsing, cart management, orders,
 
 **Technologies:** Java, JSP, Servlets, Python, MySQL, HTML, CSS, JavaScript, Bootstrap
 
-[View Project](../Sweet-Muse-Online-Cake-Shop)
+🔗 [View Project](https://github.com/nishuranathunga38-bit/Sweet-Muse-Online-Cake-Shop)
+
+---
 
 ## 🎓 Education
 
@@ -69,4 +71,4 @@ Sri Lanka Institute of Advanced Technological Education (SLIATE)
 
 ## 📫 Contact
 
-**GitHub:** nishuranathunga38-bit
+**GitHub:** [nishuranathunga38-bit](https://github.com/nishuranathunga38-bit)
