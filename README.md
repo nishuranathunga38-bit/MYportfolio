@@ -6,20 +6,20 @@ Welcome to my GitHub portfolio.
 
 I am a final-year Higher National Diploma in Information Technology (HNDIT) undergraduate with practical experience in web application development, database management, UI/UX design, and AI-assisted solutions.
 
-I am interested in UI/UX design, project coordination, web technologies, artificial intelligence, prompt engineering, and emerging technologies. I am a self-motivated and responsible individual who enjoys learning new technologies, working on creative projects, and developing practical solutions.
+I am interested in UI/UX design, artificial intelligence, prompt engineering, database management, and emerging technologies.
 
 ## 🛠️ Skills
 
 - Java / JSP / Servlets
-- Web & Mobile Development
+- Web Application Development
 - Database Management
 - UI/UX Design
 - HTML, CSS & JavaScript
 - AI Tools & Prompt Engineering
-- Project Coordination
-- Problem Solving
+- Python Flask
+- Bootstrap
 - Basic Networking
-- Communication
+- Project Coordination
 
 ## 🔧 Tools & Technologies
 
@@ -27,37 +27,46 @@ I am interested in UI/UX design, project coordination, web technologies, artific
 - XAMPP
 - MySQL Workbench
 - Apache Tomcat
+- Bootstrap
 - Canva
 - Microsoft Office & Excel
-- Bootstrap
 - Python Flask
 
 ## 💻 Projects
 
-### Smart Inventory Management System
+### 1. Smart Inventory Management System
 
-A web-based inventory management system with AI-assisted features.
+AI-assisted inventory management web application with predictive analytics.
 
 **Technologies:** Java, JSP, Servlets, Python Flask, MySQL, Bootstrap
 
-### ATI Badulla Web Portal
+[View Project](../Smart-Inventory-Management-System)
 
-A web portal developed to provide academic information and services for students.
+---
 
-**Technologies:** Java, JSP, Servlets, MySQL, HTML, CSS
+### 2. ATI Badulla Web Portal
 
-### Sweet Muse Online Cake Shop
+Web portal developed to provide academic information and useful services for ATI Badulla students.
 
-An online cake shop application with product browsing, cart management, orders and CRUD functionality.
+**Technologies:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript
 
-**Technologies:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript, Bootstrap
+[View Project](../ATI-Badulla-Web-Portal)
+
+---
+
+### 3. Sweet Muse Online Cake Shop
+
+Online cake shop web application with product browsing, cart management, orders, and CRUD functionality.
+
+**Technologies:** Java, JSP, Servlets, Python, MySQL, HTML, CSS, JavaScript, Bootstrap
+
+[View Project](../Sweet-Muse-Online-Cake-Shop)
 
 ## 🎓 Education
 
 **Higher National Diploma in Information Technology (HNDIT)**  
 Sri Lanka Institute of Advanced Technological Education (SLIATE)
 
-## 🌐 LinkedIn
+## 📫 Contact
 
-My LinkedIn: https://www.linkedin.com/in/nisansala-ranathunga-989b8737b/
-
+**GitHub:** nishuranathunga38-bit
